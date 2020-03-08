@@ -7,6 +7,8 @@ Add your name here, feel free to use an emoji! (https://gist.github.com/rxaviers
 - [Hossein Kalbasi](https://github.com/hosseinkalbasi) :smirk:
 - [Ravi](https://github.com/ravitejavemuri)
 - [Vanya](https://github.com/vanyak96)
+- [AmirMirshahi](https://github.com/AmirMirshahi)
+
 
 
 ## Use git, git bash, and VS Code from commandline:
